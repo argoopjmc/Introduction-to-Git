@@ -11,4 +11,5 @@ Version control is required to enable users to collaborate effectively on softwa
 2. Check your version installed using ``` git --version ```
 3. Configure your Git username and email ( associated with commits you will make) using 
 ``` git config --global user.name "<Your GitHub username>"
-    git config --global user.email "<The email address you registered with your GitHub account>" ```
+git config --global user.email "<The email address you registered with your GitHub account>" 
+```
